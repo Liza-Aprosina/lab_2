@@ -1,0 +1,23 @@
+{
+  "total_events": 3,
+  "by_level": {
+    "DEBUG": 0,
+    "INFO": 1,
+    "WARNING": 0,
+    "ERROR": 1,
+    "CRITICAL": 1
+  },
+  "by_source": {
+    "база данных": 2,
+    "приложение": 1
+  },
+  "top_error_sources": [
+    {
+      "source": "база данных",
+      "count": 2
+    }
+  ],
+  "first_timestamp": "2026-01-02T10:00:00+00:00",
+  "last_timestamp": "2026-01-02T10:02:00+00:00",
+  "skipped_rows": 0
+}
